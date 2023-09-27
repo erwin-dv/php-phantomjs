@@ -1,6 +1,6 @@
 {
     "name": "erwin-dv/php-phantomjs",
-    "description": "A PHP wrapper for loading pages through PhantomJS",
+    "description": "A PHP wrapper for loading pages through PhantomJS - Drupal 10 / Symfony 6 compatible",
     "keywords": ["PhantomJS", "Testing", "Headless Browser"],
 	"type": "library",
     "license": "MIT",

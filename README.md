@@ -12,6 +12,7 @@ websites that demand javascript support and also supports screen captures.
 Feature List
 ---------------------
 
+*  This branch is Drupal 10 / Symfony 6 compatible.
 *  Load webpages through the PhantomJS headless browser
 *  View detailed response data including page content, headers, status code etc.
 *  Handle redirects
